@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    background-color:yellow;
+    border-radius: 4px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    margin-right: 40px;
+}
+.content{
+    width: 500px;
+    height: 600px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: #e5dbdb83;
+  }
+  h1{
+    color: red;
+    font-weight: 900;
+    font-size: 40px;
+    margin: 20px;
+  }
+  button{
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    margin: 10px;
+  }
+  h2{
+    text-align: center;
+  }
+  .list button{
+    background-color: blue;
+    color: white;
+    border: 1px blue solid;
+  }

@@ -1,0 +1,32 @@
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+    margin: 8px 0;
+}
+.label{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px 0 0 5px;
+    display: inline-block;
+    width: 45px;
+    height: 35px;
+    padding-left: 5px;
+    line-height: 35px;
+
+}
+.content{
+    background-color: #c1b6b666;
+    /* padding: 3px 20px 3px 10px; */
+    display: inline-block;
+    width: 200px;
+    height: 35px;
+    padding-left: 5px;
+    line-height: 35px;
+
+
+
+}
